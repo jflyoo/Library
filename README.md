@@ -1,7 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-
-My readme
+This is my fileshare for infosec testing artifacts, such as script output and pwn scripts. This fileshare is not intended to be a master respository, rather it serves as a place to store these artifacts temporarily before I can move them to my master storage device.
